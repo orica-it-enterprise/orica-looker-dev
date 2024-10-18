@@ -1,5 +1,5 @@
 constant: CONNECTION_NAME {
-  value: "bq_sap_reporting_cortex_dev "
+  value: "bq_sap_reporting_cortex_dev"
   export: override_required
 }
 
