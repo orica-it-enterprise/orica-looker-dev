@@ -1,20 +1,20 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "bq_sap_reporting_cortex_dev"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project ID"
+  value: "prj-orica-cortex-staging"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "sap_reporting_cortex"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "010"
   export: override_required
 }
 
