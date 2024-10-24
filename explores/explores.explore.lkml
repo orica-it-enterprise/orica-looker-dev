@@ -15,6 +15,7 @@ explore: data_intelligence_ar {
 }
 
 explore: sales_orders {
+  label: "sales_orders_1"
 
   join: language_map {
     fields: []
